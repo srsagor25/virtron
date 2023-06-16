@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.youtube_ecommerce.app-mergeDebugResources-92:/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-3\\c6494d37429de74bbf310668f2e4449c\\transformed\\jetified-play-services-wallet-19.1.0\\res\\values-id\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "73",
+                        "endOffsets": "275"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        }
+    ]
+}
